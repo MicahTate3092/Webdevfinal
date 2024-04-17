@@ -1,0 +1,39 @@
+h1{
+    font-size: 110px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    color: navy;
+    font-weight: bold;
+    background-image: url(https://t4.ftcdn.net/jpg/03/01/86/13/360_F_301861323_tEKMCqC9DDuRKTkGR6cLz4x4mQ4dSlDC.jpg)
+    
+}
+.center{
+    text-align: center;
+}
+li{
+    font-size: 20px;
+}
+.SummaryText{
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
+
+.centerimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.NoteStat {
+    font-family: serif;
+    font-size: 80px;
+    color: black;
+    margin-left: 114px;
+    margin-right: 114px;
+   
+}
